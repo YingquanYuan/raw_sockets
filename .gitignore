@@ -1,0 +1,6 @@
+*~
+.DS_Store
+*ropeproject/
+*.pyc
+*.log
+rawhttpget
